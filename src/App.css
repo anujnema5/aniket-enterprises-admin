@@ -1,0 +1,11 @@
+.form-cont{
+    height: 100vh;
+}
+
+.form-cont01{
+    height: 55vh;
+    width: 50vh;
+}
+.text-underline{
+    text-decoration: underline;
+}
